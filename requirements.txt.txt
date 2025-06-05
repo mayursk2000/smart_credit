@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+joblib
+xgboost
+pandas
+scikit-learn
+shap
+prometheus_fastapi_instrumentator
